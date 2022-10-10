@@ -14,15 +14,15 @@
     "env": {
         "API_HASH": {
             "description": "Your API HASH from my.telegram.org",
-            "value": ""
+            "value": "00d42b460cef01c13d97dad1f417194e"
         },
         "API_ID": {
             "description": "Your API ID from my.telegram.org",
-            "value": ""
+            "value": "19987622"
         },
         "BOT_TOKEN": {
             "description": "Bot token, get it from @BotFather.",
-            "value": ""
+            "value": "5587381762:AAFn1SttATDWuuPlEqFslZx9aeKaEZC0YbU"
         },
         "AUTH_USERS": {
             "description": "Bot owner's UserID.",
@@ -60,11 +60,11 @@
         },
         "FORCESUB_UN": {
             "description": "Forcesub channel's username.",
-            "value": ""
+            "value": "satyamisme"
         },
         "BOT_UN": {
             "description": "Username of your bot.",
-            "value": ""
+            "value": "genmediaconvertbot"
         }
     },
     "buildpacks": [
